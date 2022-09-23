@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmnaFerchichi
 - 👀 I’m interested in Web Development, Artificial Intelligence And Devops.
-- 🌱 I’m currently searching for a final year Internship that will last for at least 4 months.
+- 🌱 I’m currently searching for a final year Internship that will last  4 to 6 months.
 
 
 <!---
