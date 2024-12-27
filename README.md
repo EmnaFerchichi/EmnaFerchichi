@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EmnaFerchichi
 - 👀 I’m interested in Web Development, QA Tetsing.
-- 🌱 I’m currently searching for a final year Internship that will last  4 to 6 months.
 
 
 <!---
