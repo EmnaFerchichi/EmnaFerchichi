@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmnaFerchichi
-- 👀 I’m interested in  QA Tetsing and Web Development.
+- 👀 I’m interested in  QA Tetsing, Devops and Web Development.
 
 
 <!---
